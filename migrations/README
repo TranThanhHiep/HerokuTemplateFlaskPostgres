@@ -1,0 +1,4 @@
+Generic single-database configuration.
+
+set DATABASE_URL=postgresql://postgres:123@localhost:5432/books_store
+set export APP_SETTINGS=config.DevelopmentConfig
